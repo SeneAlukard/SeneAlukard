@@ -13,7 +13,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="400">
       <br>
       <a href="https://aracbakimi.net">
         <img src="assets/aracbakimi.png" width="72" height="72" alt="AraçBakımı logo">
@@ -23,7 +23,7 @@
       <p><a href="https://aracbakimi.net">aracbakimi.net ↗</a></p>
       <br>
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="400">
       <br>
       <a href="https://altinkesem.com">
         <img src="assets/altinkesem.png" width="72" height="72" alt="AltınKesem logo">
